@@ -6,5 +6,8 @@ Opgaven indholder to databaser, og en python-fil fra timen der generer falsk dat
 
 App.py ligger alle endpoints, og imports der skal bruges til at få API til at virke. 
 
-VIGTIGT! Man skal indsætte en GITHUB-token, og dit brugernavn i koden for at koden. 
+VIGTIGT! Man skal indsætte en GITHUB-token, og dit brugernavn i koden ellers oplever du fejl. 
+
+
+
 
